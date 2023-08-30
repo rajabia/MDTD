@@ -1,1 +1,1 @@
-# MDTD-A-Multi-Domain-Trojan-Detector-for-Deep-Neural-Networks
+# MDTD: A Multi-Domain Trojan Detector for Deep Neural Networks
